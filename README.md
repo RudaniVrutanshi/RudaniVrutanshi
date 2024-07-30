@@ -14,7 +14,7 @@
 
 - 🤓 Eager to learn new things
 
-- 📄 <a href="https://drive.google.com/file/d/16eh7nNKLwInlUcPXjjPv83-4QBsaj_aw/view?usp=drivesdk" download >My Resume </a>
+- 📄 <a href="https://drive.google.com/file/d/1k51ZO04E7BuK97BKt2Dy4ALV1EtIFwBj/view?usp=sharing" download >My Resume </a>
 
 <hr>
 <h3> Connect with me: </h3>
