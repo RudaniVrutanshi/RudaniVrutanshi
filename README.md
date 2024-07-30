@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **Web (React)**
+- 💬 Ask me about **Web (React.js)**
 
 - 📫 How to reach me **vrutanshirudani@gamil.com**
 
