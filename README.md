@@ -2,19 +2,19 @@
 
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="" width="34px">
  , I'm Vrutanshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate SQL  developer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="45%"
   alt="">
 
 
 
-- 💬 Ask me about **Web (React.js)**
+- 💬 Ask me about **SQL Developer**
 
 - 📫 How to reach me **vrutanshirudani@gamil.com**
 
 - 🤓 Eager to learn new things
 
-- 📄 <a href="https://drive.google.com/file/d/1k51ZO04E7BuK97BKt2Dy4ALV1EtIFwBj/view?usp=sharing" download >My Resume </a>
+- 📄 <a href="https://drive.google.com/file/d/1OosYu_v8gULEr8fVf1ZUXIe67gWn2T8e/view?usp=drive_link" download >My Resume </a>
 
 <hr>
 <h3> Connect with me: </h3>
